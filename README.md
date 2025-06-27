@@ -83,4 +83,4 @@ A clean UI to navigate through the available games. The currently selected item 
 Inspired by the original Game Boy and Arduboy, this project merges nostalgia with embedded development.
 
 
-## Built with love, logic, and a lot of debugging.        
+Built with love, logic, and a lot of debugging.        
