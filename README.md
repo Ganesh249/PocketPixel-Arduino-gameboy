@@ -22,7 +22,7 @@ An Arduino-powered handheld **Game Boy-style console** with multiple retro games
 |------------------|-----------------------------------|
 | Arduino Nano     | Microcontroller                   |
 | OLED Display     | 128x64 I2C (SSD1306)              |
-| Push Buttons     | 5 buttons for input
+| Push Buttons     | 7 buttons for input
 | Buzzer           | For sound effects (optional)      |
 | 0.1uf capacitor  | For button debouncing (if needed) |
 
