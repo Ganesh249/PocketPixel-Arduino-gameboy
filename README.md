@@ -1,4 +1,4 @@
-#Pocket Pixle 
+# Pocket Pixle 
 
 An Arduino-powered handheld **Game Boy-style console** with multiple retro games and a simple UI. Built using an **Arduino Nano**, an **OLED Display**, and **tactile buttons**, this project brings classic fun to a tiny form factor.
 
