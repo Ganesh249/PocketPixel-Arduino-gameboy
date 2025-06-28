@@ -4,8 +4,9 @@ An Arduino-powered handheld **Game Boy-style console** with multiple retro games
 
 ![IMG_20250628_190650](https://github.com/user-attachments/assets/b211a5c3-1179-4a9e-8812-5fc0b45c2be5)
 
-
-
+### Try It Online
+  You can simulate this build online using Wowki:
+  👉 https://wokwi.com/projects/434744628743555073
 ## Features
 
 - 128x64 OLED Display (U8glib Library)
