@@ -2,6 +2,9 @@
 
 An Arduino-powered handheld **Game Boy-style console** with multiple retro games and a simple UI. Built using an **Arduino Nano**, an **OLED Display**, and **tactile buttons**, this project brings classic fun to a tiny form factor.
 
+![IMG_20250628_182522](https://github.com/user-attachments/assets/f59dd827-d97f-41c6-9780-684216cf6956)
+
+
 ## Features
 
 - 128x64 OLED Display (U8glib Library)
@@ -16,7 +19,7 @@ An Arduino-powered handheld **Game Boy-style console** with multiple retro games
 - Custom startup screen
 - Button-based navigation (Up, Down, Left, Right, OK)
 
-## 🧩 Hardware Components
+## Hardware Components
 
 | Component        | Description                      |
 |------------------|-----------------------------------|
@@ -47,11 +50,19 @@ An Arduino-powered handheld **Game Boy-style console** with multiple retro games
 - Asteroids spawn from the planet and move toward the ship.
 - Bullets can destroy the planet and increase the score.
 - The ship has 5 lives. When asteroids hit, the ship's lives decrease.
-- The game ends on 0 lives.
+- The game ends when you have 0 lives.
+  
+### Asteroid Shooter
+  - Control the Shooter using the left and right keys.
+  - Shoot the asteroids falling from the TOP.
+  - When a bullet hits the asteroid, the score increases.
+  - When an asteroid is left unshot, the score is decreased.
 
 ## Menu System
-
 A clean UI to navigate through the available games. The currently selected item is highlighted with a selection box.
+
+![IMG20250628180534](https://github.com/user-attachments/assets/076fd1a2-5896-4141-8553-a0a1e2dc3b9a)
+
 
 ## 🛠Software & Libraries
 
@@ -66,7 +77,7 @@ A clean UI to navigate through the available games. The currently selected item 
 - Use the UP and DOWN buttons to navigate and OK to select.
 - In each game, button input is polled and rendered per frame.
 - Game logic and collisions are handled in individual Game functions.
-- After game over, return to menu or restart the game.
+- After the game is over, return to the menu or restart the game.
 
 ## Schmatic
   ![schematic](https://github.com/user-attachments/assets/f0199a89-cced-4877-8fa6-b62516cc3ef5)
