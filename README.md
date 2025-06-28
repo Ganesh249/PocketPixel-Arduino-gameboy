@@ -83,6 +83,8 @@ A clean UI to navigate through the available games. The currently selected item 
 
 ## Schmatic
   ![schematic](https://github.com/user-attachments/assets/f0199a89-cced-4877-8fa6-b62516cc3ef5)
+  
+  ![IMG_20250628_215854](https://github.com/user-attachments/assets/f55aa3b8-f3c1-47b1-a135-67e26355b2ab)
 
 ## Future Improvements
 
