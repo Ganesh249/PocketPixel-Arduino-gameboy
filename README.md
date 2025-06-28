@@ -2,7 +2,8 @@
 
 An Arduino-powered handheld **Game Boy-style console** with multiple retro games and a simple UI. Built using an **Arduino Nano**, an **OLED Display**, and **tactile buttons**, this project brings classic fun to a tiny form factor.
 
-![IMG_20250628_182522](https://github.com/user-attachments/assets/f59dd827-d97f-41c6-9780-684216cf6956)
+![IMG_20250628_190650](https://github.com/user-attachments/assets/b211a5c3-1179-4a9e-8812-5fc0b45c2be5)
+
 
 
 ## Features
